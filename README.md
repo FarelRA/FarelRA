@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="photo-profile.png" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 2px solid #0366d6;" alt="Profile"/>
-</div>
-
 <h1 align="center">Hi 👋, I'm Farel Reski Aditiya</h1>
 
 <div align="center">
