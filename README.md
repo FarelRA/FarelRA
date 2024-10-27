@@ -1,8 +1,11 @@
+<div align="center">
+  <img src="photo-profile.png" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 2px solid #0366d6;" alt="Profile"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Farel Reski Aditiya</h1>
 
 <div align="center">
-  <img src="photo-profile.jpg" alt="Profile Image" width="200" style="border-radius: 50%"/>
-  
+
   ### 💻 Techie at Heart | 🇮🇩 Indonesian Developer | 🎓 High School Student
   
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Farel_RA)
